@@ -6,13 +6,13 @@
 
 ## \U0001f64b\u200d\u2642\ufe0f About Me
 
-- \U0001f52d My Name Is **Muhammed Rabeeh A**
+-  My Name Is **Muhammed Rabeeh A**
   
-- \U0001f52d Peoples Call Me **Sultan**
+-  Peoples Call Me **Sultan**
   
-- \U0001f331 I\u2019m currently learning **The Extreame level Of The Programming languages**
+-  Im currently learning **The Extreame level Of The Programming languages**
 
-- \U0001f4eb How to reach me **am.rabeeh.786@gmail.com*
+-  How to reach me **am.rabeeh.786@gmail.com*
 
 <br/>
 <br/>
