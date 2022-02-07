@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Programmer from India</h3>
 
 
-## \U0001f64b\u200d\u2642\ufe0f About Me
+## About Me
 
 -  My Name Is **Muhammed Rabeeh A**
   
